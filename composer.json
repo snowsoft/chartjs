@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/chartjs",
+    "name": "snowsoft/chartjs",
     "description": "Use Chartjs in laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "chartjs"],
-    "homepage": "https://github.com/laravel-admin-ext/chartjs",
+    "homepage": "https://github.com/snowsoft/chartjs",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "*"
+        "snowsoft/laravel-admin": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"

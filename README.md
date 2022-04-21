@@ -12,7 +12,7 @@ Login using `admin/admin`
 ## Installation
 
 ```bash
-composer require laravel-admin-ext/chartjs
+composer require snowsoft/chartjs
 
 php artisan vendor:publish --tag=laravel-admin-chartjs
 ```
@@ -98,14 +98,7 @@ class ChartjsController extends Controller
 ```
 
 For more usage, please refer to the official [documentation](http://www.chartjs.org/) of chartjs.
-
-## Donate
-
-> Help keeping the project development going, by donating a little. Thanks in advance.
-
-[![PayPal Me](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/zousong)
-
-![-1](https://cloud.githubusercontent.com/assets/1479100/23287423/45c68202-fa78-11e6-8125-3e365101a313.jpg)
+  
 
 License
 ------------
